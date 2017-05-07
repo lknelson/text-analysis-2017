@@ -24,7 +24,7 @@ text for us. Instead, we will harness the superior ability for computers to coun
 patterns from text, and use this output to enhance our own critical thinking and interpretive
 analyses.
 
-# Topic Covered
+# Topics Covered
 
 * Using Python and Jupyter for Text Analysis
 * Natural Language Processing
