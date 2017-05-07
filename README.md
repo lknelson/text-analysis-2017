@@ -1,9 +1,7 @@
 # Computational Text Analysis for Humanists and Social Scientists
-## A 3 Day Workshop
-## May 22-24 2017, 10AM - 4PM
-## Claremont Colleges
-
-## Instructors: Hovig Tchalian and Laura Nelson
+### May 22-24 2017, 10AM - 4PM
+### Claremont Colleges
+### Instructors: Hovig Tchalian and Laura Nelson
 
 # Overview
 
