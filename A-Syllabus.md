@@ -1,4 +1,6 @@
 ## Text Analysis for Humanists and Social Scientists
+
+### A Digital Humanities Workshop for Claremont Colleges
 ### 22-24 May 2017 
 ### Instructors: Hovig Tchalian and Laura Nelson
 
