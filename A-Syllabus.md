@@ -15,7 +15,7 @@ This workshop will be taught in the open source programming language Python usin
 
 #### Software
 
-You will need a laptop that has internet access and a common browser installed. The workshop will be taught using a Jupyter Hub instance, so you do not need any special software to follow the tutorials. If you want to pursue this work further you will want to download in install [Anaconda for Python 3.5](https://www.continuum.io/downloads) on your laptop. We will be around to help trouble shoot this during lunch on Day 3. 
+You will need a laptop that has internet access and a common browser installed. The workshop will be taught using a Jupyter Hub instance, so you do not need any special software to follow the tutorials. If you want to pursue this work further you will want to download and install [Anaconda for Python 3.5](https://www.continuum.io/downloads) on your laptop. We will be available to help trouble shoot this during lunch on Day 3. 
 
 #### You may also want to read the following to get a sense of what we'll be doing:
 
