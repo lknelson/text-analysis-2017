@@ -15,7 +15,7 @@ This workshop will be taught in the open source programming language Python usin
 
 #### You may also want to read the following to get a sense of what we'll be doing:
 
-Ted Underwood. [Seven ways humanists are using computers to understand text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
+Ted Underwood. [Seven ways humanists are using computers to understand text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)  
 H. Andrew Schwartz and Lyle H. Ungar (2015). [Data-Driven Content Analysis of Social Media: A Systematic Overview of Automated Methods (link downloads a PDF)](http://wwbp.org/papers/dataDriven2015.pdf)
 
 ## Schedule
