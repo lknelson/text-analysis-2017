@@ -13,10 +13,18 @@ In this workshop you will learn cutting-edge methods to analyze large amounts of
 ## Prerequisites 
 This workshop will be taught in the open source programming language Python using the Jupyter environment. While no prior programming experience is required or assumed, your time in this workshop will be much more productive if you come in with some basic knowledge of Python. Participants are strongly encouraged to complete [this brief tutorial](https://www.codeschool.com/courses/try-python) to learn the basic syntax of the Python programming language.
 
+#### Software
+
+You will need a laptop that has internet access and a common browser installed. The workshop will be taught using a Jupyter Hub instance, so you do not need any special software to follow the tutorials. If you want to pursue this work further you will want to download in install [Anaconda for Python 3.5](https://www.continuum.io/downloads) on your laptop. We will be around to help trouble shoot this during lunch on Day 3. 
+
 #### You may also want to read the following to get a sense of what we'll be doing:
 
 Ted Underwood. [Seven ways humanists are using computers to understand text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)  
 H. Andrew Schwartz and Lyle H. Ungar (2015). [Data-Driven Content Analysis of Social Media: A Systematic Overview of Automated Methods (link downloads a PDF)](http://wwbp.org/papers/dataDriven2015.pdf)
+
+### A note on software
+The workshop will be taught using a Jupyter Hub instance.
+Please download and install Anaconda for Python 3.5 on your laptops before coming to the workshop. If you have difficulties installing, please come early to class the first day for help.
 
 ## Schedule
 
