@@ -19,12 +19,10 @@ You will need a laptop that has internet access and a common browser installed. 
 
 #### You may also want to read the following to get a sense of what we'll be doing:
 
-Ted Underwood. [Seven ways humanists are using computers to understand text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)  
-H. Andrew Schwartz and Lyle H. Ungar (2015). [Data-Driven Content Analysis of Social Media: A Systematic Overview of Automated Methods (link downloads a PDF)](http://wwbp.org/papers/dataDriven2015.pdf)
+* Ted Underwood. [Seven ways humanists are using computers to understand text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)  
+* H. Andrew Schwartz and Lyle H. Ungar (2015). [Data-Driven Content Analysis of Social Media: A Systematic Overview of Automated Methods (link downloads a PDF)](http://wwbp.org/papers/dataDriven2015.pdf)
 
-### A note on software
-The workshop will be taught using a Jupyter Hub instance.
-Please download and install Anaconda for Python 3.5 on your laptops before coming to the workshop. If you have difficulties installing, please come early to class the first day for help.
+
 
 ## Schedule
 
