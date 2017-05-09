@@ -1,6 +1,6 @@
 # Computational Text Analysis for Humanists and Social Scientists
-### May 22-24 2017, 10AM - 4PM
-### Claremont Colleges
+### A Digital Humanities Workshop for Clarement Colleges
+### 22-24 May 2017, 10AM - 4PM
 ### Instructors: Hovig Tchalian and Laura Nelson
 
 # Overview
