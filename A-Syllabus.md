@@ -34,12 +34,13 @@ You will need a laptop that has internet access and a common browser installed. 
 	* Downloading tutorials and data
 	* What is a Jupyter notebook?
 	* Installation check
+	* Primer in Markdown
 
 ## Day 1: Afternoon
 * Introduction to computational thinking
 * Working with text in Python
 * Working with numbers in Python
-* Primer in Markdown (if time)
+
 
 Readings:
 [Andrew Piper (2016). “There Will be Numbers.” *Journal of Cultural Analytics*.](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
