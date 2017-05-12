@@ -14,7 +14,7 @@ and answer, a diverse array of questions about the social world: Does social med
 political opinion, or drive it? What determines trust in online communities? What types of blog
 posts get censored in China and why? Are diurnal and seasonal mood cycles cross-cultural? What
 was the form of cultural and institutional change through the “civilizing process” in England
-between the 16 th and 20 th centuries? What is the life cycle of a literary genre? What are textual
+between the 16th and 20th centuries? What is the life cycle of a literary genre? What are textual
 allusions in Classical Latin poetry? Can the FBI really analyze 650,000 emails in 3 days?
 (Spoiler: Yes, they can!)
 
