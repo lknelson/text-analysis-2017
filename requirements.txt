@@ -1,0 +1,8 @@
+os
+string
+numpy==1.11.2
+matplotlib==1.5.3
+pandas==0.19.1
+sklearn==0.18.1
+scipy==0.18.1
+nltk==3.2.1
