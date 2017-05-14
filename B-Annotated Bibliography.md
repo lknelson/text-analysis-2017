@@ -50,7 +50,7 @@ Abstract: Topic modeling provides a valuable method for identifying the linguist
 
 Robert K. Nelson's project [Mining the Dispatch](http://dsl.richmond.edu/dispatch/pages/intro) topic models articles from the <i>Richmond Daily Dispatch</i>, the paper of record of the Confederacy, over the course of the American Civil War. Following two topics that seem to rise and fall in tandem, Anti-Northern Diatribes and Poetry and Patriotism, Nelson identifies them as two sides of the same coin in the war effort. Taken together, they not only reveal how the Confederacy understood itself in relation to the war, but the simultaneous spikes and drops of these topics offer what he refers to as “a cardiogram of the Confederate nation.”
 
-[Topic Modeling and Figurative Language](journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/), Lisa M. Rhody
+[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/), Lisa M. Rhody
 
 The explicit objective of LDA is to identify words that cluster together in some meaningful way, yet it is unable to tell us what that meaning is. This poses a problem for literature in which techniques like irony and metaphor can distance a word from its dictionary meanings in unexpected ways. Rhody examines topics assigned to a particular poem, giving special attention to one with a deeply ambiguous relationship among its terms.
 
